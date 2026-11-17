@@ -1,0 +1,18 @@
+# Окружение и модели
+venv/
+models/
+wheels/
+GLiDE-27B/
+
+# Данные и результаты прогонов (в git не хранятся)
+gold.xlsx
+*.xlsx
+routing_descriptions_*.html
+
+# Сгенерированные отчёты
+report_*.html
+
+# Логи и служебное
+*.log
+__pycache__/
+.ipynb_checkpoints/
